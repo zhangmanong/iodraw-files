@@ -78,6 +78,9 @@
         <mxCell id="MLpCZohtMoDCy9GrOI_7-29" value="220kw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="640" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hg_SJT1Tx9UuBN8s_Rfk-1" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cabinet;hasStand=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="250" height="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
