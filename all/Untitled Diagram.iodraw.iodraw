@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
-          <mxGeometry x="650" y="475" width="80" height="80" as="geometry" />
+          <mxGeometry x="690" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="220" y="150" width="80" height="80" as="geometry" />
@@ -110,6 +110,9 @@
             <mxPoint x="745" y="360" as="sourcePoint" />
             <mxPoint x="710" y="233" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WqaMhwcD84u2Cb66LON3-3" target="WqaMhwcD84u2Cb66LON3-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
