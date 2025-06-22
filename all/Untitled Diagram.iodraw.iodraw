@@ -83,9 +83,11 @@
             <mxPoint x="520" y="558.0434782608695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqaMhwcD84u2Cb66LON3-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="50" height="39" as="geometry" />
-        </mxCell>
+        <object label="" id="WqaMhwcD84u2Cb66LON3-2">
+          <mxCell style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
+            <mxGeometry x="485" y="300" width="50" height="39" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
