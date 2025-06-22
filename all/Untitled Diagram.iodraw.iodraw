@@ -76,7 +76,7 @@
           <mxGeometry x="990" y="160" width="75.43" height="86" as="geometry" />
         </mxCell>
         <mxCell id="WqaMhwcD84u2Cb66LON3-14" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="740" y="300" width="20" height="200" as="geometry" />
+          <mxGeometry x="740" y="440" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
