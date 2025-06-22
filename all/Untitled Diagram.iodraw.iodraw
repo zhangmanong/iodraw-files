@@ -88,7 +88,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WqaMhwcD84u2Cb66LON3-17" value="M" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" vertex="1" parent="1">
-          <mxGeometry x="975.44" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="975.44" y="240" width="34.56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-18" value="M" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="907.72" y="220" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
