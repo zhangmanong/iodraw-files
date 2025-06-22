@@ -9,6 +9,11 @@
             <mxPoint x="510" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="69ecfefc5c41e42c-1" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="470" y="465" width="80" height="80" as="geometry" />
         </mxCell>
