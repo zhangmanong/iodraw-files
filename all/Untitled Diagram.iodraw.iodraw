@@ -114,6 +114,9 @@
         <mxCell id="WqaMhwcD84u2Cb66LON3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WqaMhwcD84u2Cb66LON3-3" target="WqaMhwcD84u2Cb66LON3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="460" y="508" width="100" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
