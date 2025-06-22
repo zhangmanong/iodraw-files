@@ -9,7 +9,7 @@
             <mxPoint x="510" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WqaMhwcD84u2Cb66LON3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1">
+        <mxCell id="WqaMhwcD84u2Cb66LON3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="505" as="targetPoint" />
           </mxGeometry>
@@ -37,7 +37,7 @@
           </mxCell>
         </object>
         <mxCell id="WqaMhwcD84u2Cb66LON3-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
-          <mxGeometry x="690" y="496" width="55" height="18" as="geometry" />
+          <mxGeometry x="700" y="488" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="WqaMhwcD84u2Cb66LON3-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
