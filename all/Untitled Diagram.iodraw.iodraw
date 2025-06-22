@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-9" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="478.71000000000004" y="690" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="729" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
           <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
