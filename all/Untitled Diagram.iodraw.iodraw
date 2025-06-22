@@ -88,6 +88,9 @@
             <mxGeometry x="485" y="300" width="50" height="39" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="55" height="18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
