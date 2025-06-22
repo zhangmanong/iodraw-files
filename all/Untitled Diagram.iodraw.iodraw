@@ -91,7 +91,19 @@
           <mxGeometry x="975.44" y="240" width="34.56" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WqaMhwcD84u2Cb66LON3-18" value="M" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" vertex="1" parent="1">
-          <mxGeometry x="907.72" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="907.72" y="240" width="42.28" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="390" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqaMhwcD84u2Cb66LON3-20" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
