@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="1kdU3LyX1fPOgByn5YPv">
-    <mxGraphModel dx="692" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="MLpCZohtMoDCy9GrOI_7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;curved=0;shape=link;" parent="1" source="MLpCZohtMoDCy9GrOI_7-3" target="MLpCZohtMoDCy9GrOI_7-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MLpCZohtMoDCy9GrOI_7-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2X95mm&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MLpCZohtMoDCy9GrOI_7-6" vertex="1" connectable="0">
+        <mxCell id="MLpCZohtMoDCy9GrOI_7-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;120mm&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MLpCZohtMoDCy9GrOI_7-6" vertex="1" connectable="0">
           <mxGeometry x="0.05" relative="1" as="geometry">
             <mxPoint y="-15" as="offset" />
           </mxGeometry>
