@@ -43,15 +43,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiLX7OIklDFY69c6qD1U-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="RiLX7OIklDFY69c6qD1U-11" source="RiLX7OIklDFY69c6qD1U-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280.00000000000006" y="55.44" as="sourcePoint" />
-            <mxPoint x="610" y="54.999999999999986" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="467.23404255319156" y="54.999999999999986" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RiLX7OIklDFY69c6qD1U-9" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.007;exitY=0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RiLX7OIklDFY69c6qD1U-11" source="RiLX7OIklDFY69c6qD1U-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220.6382978723405" y="146.66666666666666" as="sourcePoint" />
@@ -60,6 +51,12 @@
         </mxCell>
         <mxCell id="RiLX7OIklDFY69c6qD1U-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="RiLX7OIklDFY69c6qD1U-11">
           <mxGeometry x="580" y="30" width="30" height="31.87" as="geometry" />
+        </mxCell>
+        <mxCell id="RiLX7OIklDFY69c6qD1U-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
