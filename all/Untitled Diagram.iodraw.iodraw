@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RiLX7OIklDFY69c6qD1U-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="RiLX7OIklDFY69c6qD1U-11">
-          <mxGeometry x="558.0851063829788" width="36.651914893617025" height="38.936170212765965" as="geometry" />
+          <mxGeometry x="569.9951063829787" y="20" width="36.651914893617025" height="38.936170212765965" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
