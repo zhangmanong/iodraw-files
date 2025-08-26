@@ -22,8 +22,8 @@
             <mxPoint x="80" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RiLX7OIklDFY69c6qD1U-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="160" height="85" as="geometry" />
+        <mxCell id="RiLX7OIklDFY69c6qD1U-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorUneven;dx=0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="70" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
