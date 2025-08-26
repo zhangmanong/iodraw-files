@@ -67,7 +67,7 @@
         <mxCell id="RiLX7OIklDFY69c6qD1U-16" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=up;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=10;spacingTop=0;spacingRight=0;rotation=-90;spacing=0;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="265" y="1655" width="1030" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RiLX7OIklDFY69c6qD1U-17" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=up;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=10;spacingTop=0;spacingRight=0;rotation=-90;spacing=0;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="RiLX7OIklDFY69c6qD1U-17" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=down;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=10;spacingTop=0;spacingRight=0;rotation=-90;spacing=0;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-380" y="1630" width="1030" height="40" as="geometry" />
         </mxCell>
       </root>
