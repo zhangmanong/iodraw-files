@@ -111,18 +111,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.923;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ub_pDHf-UBpqKJ_VFHIJ-12">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="710" as="sourcePoint" />
-            <mxPoint x="535" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="710" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-38" value="PN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub_pDHf-UBpqKJ_VFHIJ-37">
-          <mxGeometry x="0.3158" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="500" y="710" as="sourcePoint" />
+            <mxPoint x="550" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
