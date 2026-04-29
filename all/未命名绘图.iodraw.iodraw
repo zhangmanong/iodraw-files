@@ -41,10 +41,10 @@
           <mxGeometry x="400" y="640" width="65" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66FFFF;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="602.5" y="850" width="22.5" height="40" as="geometry" />
+          <mxGeometry x="610" y="880" width="22.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-14" value="=EUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="855" width="50" height="30" as="geometry" />
+          <mxGeometry x="627.5" y="885" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -58,10 +58,10 @@
             <mxPoint x="339.71000000000004" y="749" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.196;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-12">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339.71000000000004" y="690" as="sourcePoint" />
-            <mxPoint x="340" y="640" as="targetPoint" />
+            <mxPoint x="415" y="720" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="680" />
               <mxPoint x="385" y="680" />
