@@ -107,7 +107,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.96;exitY=0.902;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.96;exitY=0.902;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="462" y="682" as="sourcePoint" />
             <mxPoint x="535" y="700" as="targetPoint" />
@@ -124,7 +124,7 @@
           <mxGeometry x="490" y="710" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-43" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="470" y="650" width="95" height="10" as="geometry" />
+          <mxGeometry x="460" y="650" width="105" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-44" value="I/O cable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="630" width="70" height="30" as="geometry" />
