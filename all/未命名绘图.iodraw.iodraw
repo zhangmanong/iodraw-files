@@ -74,7 +74,13 @@
           <mxGeometry x="570" y="830" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-29" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
-          <mxGeometry x="540" y="800" width="25" height="20" as="geometry" />
+          <mxGeometry x="550" y="805" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="805" as="sourcePoint" />
+            <mxPoint x="600" y="755" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
