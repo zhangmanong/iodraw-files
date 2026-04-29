@@ -70,8 +70,8 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-27" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="780" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-28" value="Main Power Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="830" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
