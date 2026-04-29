@@ -34,7 +34,7 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-11" value="EMC Filter" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="670" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66FFFF;" vertex="1" parent="1">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66FFFF;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="665" y="620" width="65" height="80" as="geometry" />
         </mxCell>
       </root>
