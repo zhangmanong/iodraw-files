@@ -43,18 +43,6 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-14" value="=EUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="815" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-18" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="710" y="790" as="sourcePoint" />
-            <mxPoint x="710" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-22" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="570" y="800" as="sourcePoint" />
-            <mxPoint x="670" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
