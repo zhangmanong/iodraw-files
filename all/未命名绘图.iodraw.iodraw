@@ -11,7 +11,7 @@
           <mxGeometry x="270" y="600" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-4" value="SITOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="40" height="40" as="geometry" />
+          <mxGeometry x="280" y="610" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-5" value="Load board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="610" width="45" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="280" y="720" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-7" value="PLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="720" width="60" height="20" as="geometry" />
+          <mxGeometry x="355" y="665" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-8" value="AE cabinet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="570" width="80" height="30" as="geometry" />
