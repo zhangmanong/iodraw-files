@@ -49,22 +49,16 @@
             <mxPoint x="705" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-18" value="" style="shape=link;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-18" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="480" y="815" as="sourcePoint" />
             <mxPoint x="580" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-20" value="" style="endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="810" as="sourcePoint" />
             <mxPoint x="580" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-21" value="" style="endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="806" as="sourcePoint" />
-            <mxPoint x="580" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
