@@ -123,11 +123,11 @@
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.96;exitY=0.902;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#00FF00;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="472" y="722" as="sourcePoint" />
-            <mxPoint x="545" y="740" as="targetPoint" />
+            <mxPoint x="462" y="690" as="sourcePoint" />
+            <mxPoint x="535" y="708" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="722" />
-              <mxPoint x="510" y="740" />
+              <mxPoint x="500" y="690" />
+              <mxPoint x="500" y="708" />
             </Array>
           </mxGeometry>
         </mxCell>
