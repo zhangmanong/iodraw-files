@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="610" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-5" value="Load board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="610" width="70" height="70" as="geometry" />
+          <mxGeometry x="355" y="610" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-6" value="G120X" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="60" height="20" as="geometry" />
