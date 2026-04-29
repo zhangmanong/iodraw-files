@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-46" value="U/V/W/PE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ub_pDHf-UBpqKJ_VFHIJ-23">
           <mxGeometry x="-0.049" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ub_pDHf-UBpqKJ_VFHIJ-28">
@@ -135,7 +135,7 @@
           <mxGeometry x="475" y="630" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-47" value="L1/L2/L3/PE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="275" y="788" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="750" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
