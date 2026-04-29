@@ -40,6 +40,9 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66FFFF;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="810" width="22.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-14" value="=EUT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="815" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
