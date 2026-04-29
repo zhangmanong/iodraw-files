@@ -55,16 +55,6 @@
             <mxPoint x="604.71" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-25" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.611;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ub_pDHf-UBpqKJ_VFHIJ-11" target="Ub_pDHf-UBpqKJ_VFHIJ-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="655" as="sourcePoint" />
-            <mxPoint x="650" y="605" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="655" />
-              <mxPoint x="600" y="605" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
