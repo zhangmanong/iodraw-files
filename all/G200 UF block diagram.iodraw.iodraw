@@ -194,11 +194,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-69" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-70" value="Main Power Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-69" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-71" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="365" y="380" width="10" height="10" as="geometry" />
@@ -212,7 +212,7 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-73" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;M&lt;/font&gt;" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="449.38" y="310" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-53">
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-53" source="Ub_pDHf-UBpqKJ_VFHIJ-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.38" y="380" as="sourcePoint" />
             <mxPoint x="449.38" y="330" as="targetPoint" />
