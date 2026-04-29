@@ -134,6 +134,9 @@
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-44" value="I/O cable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="630" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-47" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="788" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
