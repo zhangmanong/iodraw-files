@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-4" value="SITOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641.25" y="640" width="40" height="30" as="geometry" />
+          <mxGeometry x="650" y="640" width="31.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-5" value="Load board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="566.25" y="640" width="45" height="30" as="geometry" />
@@ -93,7 +93,7 @@
             <mxPoint x="375" y="860" as="sourcePoint" />
             <mxPoint x="425" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="770" />
+              <mxPoint x="666" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
