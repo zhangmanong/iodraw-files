@@ -640,7 +640,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-104" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363.25" y="1380" width="80" height="30" as="geometry" />
+          <mxGeometry x="417" y="1385" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
