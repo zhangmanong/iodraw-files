@@ -602,12 +602,7 @@
           <mxGeometry x="444.38" y="385" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-98" target="Ub_pDHf-UBpqKJ_VFHIJ-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="450" y="815" />
-              <mxPoint x="450" y="720" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-98" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="800" width="80" height="30" as="geometry" />
