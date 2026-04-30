@@ -647,14 +647,14 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-104" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="1385" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=none;endArrow=none;endFill=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-108">
+        <mxCell id="V041sR5K5_4_hPPPO40e-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.809;entryY=0.99;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=none;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-108" target="V041sR5K5_4_hPPPO40e-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="2010" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="494.75" y="2060" />
-              <mxPoint x="380.75" y="2060" />
-              <mxPoint x="380.75" y="2030" />
-              <mxPoint x="359.75" y="2030" />
+              <mxPoint x="450" y="2060" />
+              <mxPoint x="381" y="2060" />
+              <mxPoint x="381" y="2030" />
+              <mxPoint x="311" y="2030" />
             </Array>
           </mxGeometry>
         </mxCell>
