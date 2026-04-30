@@ -399,6 +399,9 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-35" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1380" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-38" value="Main Power Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655.01" y="1350" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
