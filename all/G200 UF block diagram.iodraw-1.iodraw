@@ -586,10 +586,7 @@
           <mxGeometry x="540" y="1830" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-87" value="&lt;font style=&quot;font-size: 2px;&quot;&gt;terminal resistor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;" vertex="1" parent="1">
-          <mxGeometry x="520.38" y="1825" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-87" target="V041sR5K5_4_hPPPO40e-87">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="520.62" y="1830" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
