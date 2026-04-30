@@ -92,9 +92,6 @@
             <mxPoint x="335" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ub_pDHf-UBpqKJ_VFHIJ-32" target="Ub_pDHf-UBpqKJ_VFHIJ-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-32" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;M&lt;/font&gt;" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" parent="1" vertex="1">
           <mxGeometry x="403" y="790" width="50" height="50" as="geometry" />
         </mxCell>
