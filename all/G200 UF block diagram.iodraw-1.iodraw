@@ -337,13 +337,8 @@
             <mxPoint x="680" y="1390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="1420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1440" width="10" height="10" as="geometry" />
+          <mxGeometry x="674.38" y="1390" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
