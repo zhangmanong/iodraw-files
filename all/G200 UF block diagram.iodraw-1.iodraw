@@ -303,7 +303,7 @@
             <mxPoint x="-3" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-20">
+        <mxCell id="V041sR5K5_4_hPPPO40e-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="214.71000000000004" y="1429" as="sourcePoint" />
             <mxPoint x="214.71000000000004" y="1329" as="targetPoint" />
@@ -349,7 +349,7 @@
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="1440" as="sourcePoint" />
+            <mxPoint x="541" y="1370" as="sourcePoint" />
             <mxPoint x="300" y="1390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="541" y="1350" />
@@ -388,8 +388,14 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-30" value="I/O cable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="1210" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-20" target="V041sR5K5_4_hPPPO40e-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="1470" as="sourcePoint" />
+            <mxPoint x="214.71000000000004" y="1329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-35" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="571.5" y="1360" width="70" height="40" as="geometry" />
+          <mxGeometry x="180" y="1380" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
