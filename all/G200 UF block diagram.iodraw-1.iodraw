@@ -549,6 +549,9 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-74" value="I/O cable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345.25" y="1660" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-75" value="CE_filter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1168" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
