@@ -601,7 +601,7 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-96" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;terminal resistor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;" vertex="1" parent="1">
           <mxGeometry x="444.38" y="385" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endSize=0;jumpStyle=none;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-98" target="Ub_pDHf-UBpqKJ_VFHIJ-12">
+        <mxCell id="V041sR5K5_4_hPPPO40e-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;jumpStyle=none;shape=link;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-98" target="Ub_pDHf-UBpqKJ_VFHIJ-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="808" />
