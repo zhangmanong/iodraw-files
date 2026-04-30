@@ -546,11 +546,6 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-76" value="ENV232" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551.12" y="1810" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=0;strokeWidth=1;targetPerimeterSpacing=0;endSize=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-78" target="V041sR5K5_4_hPPPO40e-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477.37" y="1840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-78" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="571.88" y="1850" width="25.62" height="20" as="geometry" />
         </mxCell>
@@ -586,6 +581,9 @@
             <mxPoint x="306.5" y="1830" as="sourcePoint" />
             <mxPoint x="356.5" y="1780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
