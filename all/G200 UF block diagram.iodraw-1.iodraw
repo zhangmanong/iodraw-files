@@ -388,6 +388,9 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-30" value="I/O cable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="1210" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-35" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571.5" y="1360" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
