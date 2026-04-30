@@ -602,7 +602,7 @@
           <mxGeometry x="444.38" y="385" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-98" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="800" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="480" y="800" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
