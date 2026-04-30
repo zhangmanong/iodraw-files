@@ -497,7 +497,7 @@
           <mxGeometry x="235.87" y="1870" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-65" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
-          <mxGeometry x="210.87" y="1890" width="10" height="10" as="geometry" />
+          <mxGeometry x="206.87" y="1890" width="19.13" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
