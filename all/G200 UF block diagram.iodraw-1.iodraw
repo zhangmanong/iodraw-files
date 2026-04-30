@@ -439,7 +439,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-49" value="SITOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520.25" y="1670" width="29.75" height="30" as="geometry" />
+          <mxGeometry x="510" y="1670" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-50" value="Load board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="1670" width="45" height="30" as="geometry" />
@@ -554,7 +554,7 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-78" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="520.25" y="1840" width="25.62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-76">
+        <mxCell id="V041sR5K5_4_hPPPO40e-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-76" source="V041sR5K5_4_hPPPO40e-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="531.12" y="1830" as="sourcePoint" />
             <mxPoint x="581.12" y="1785" as="targetPoint" />
