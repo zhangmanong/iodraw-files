@@ -647,6 +647,25 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-104" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="1385" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;jumpStyle=none;endArrow=none;endFill=0;" edge="1" parent="1" source="V041sR5K5_4_hPPPO40e-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332.25" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="467" y="1360" />
+              <mxPoint x="353" y="1360" />
+              <mxPoint x="353" y="1330" />
+              <mxPoint x="332" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-107" value="DCP/R" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V041sR5K5_4_hPPPO40e-106">
+          <mxGeometry x="-0.1199" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V041sR5K5_4_hPPPO40e-108" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="1395" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
