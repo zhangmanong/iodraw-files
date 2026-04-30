@@ -582,7 +582,7 @@
             <mxPoint x="356.5" y="1780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V041sR5K5_4_hPPPO40e-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+        <mxCell id="V041sR5K5_4_hPPPO40e-86" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="527.75" y="1830" width="22.25" height="10" as="geometry" />
         </mxCell>
       </root>
