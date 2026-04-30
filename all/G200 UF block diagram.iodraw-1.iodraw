@@ -486,18 +486,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-63" value="Main Power Supply" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193.87" y="1920" width="70" height="50" as="geometry" />
+          <mxGeometry x="194.5" y="1960" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-64" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193.87" y="1870" width="70" height="40" as="geometry" />
+          <mxGeometry x="194.5" y="1910" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-65" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
-          <mxGeometry x="164.87" y="1890" width="19.13" height="20" as="geometry" />
+          <mxGeometry x="165.5" y="1930" width="19.13" height="20" as="geometry" />
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="V041sR5K5_4_hPPPO40e-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="173.87" y="1890" as="sourcePoint" />
-            <mxPoint x="223.87" y="1845" as="targetPoint" />
+            <mxPoint x="174.5" y="1930" as="sourcePoint" />
+            <mxPoint x="224.5" y="1885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-67" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;M&lt;/font&gt;" style="dashed=0;outlineConnect=0;align=center;html=1;shape=mxgraph.pid.engines.generator_(ac);fontSize=45;" vertex="1" parent="1">
@@ -662,7 +662,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V041sR5K5_4_hPPPO40e-108" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1900" width="80" height="30" as="geometry" />
+          <mxGeometry x="410" y="1910" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
