@@ -1159,9 +1159,6 @@
         <mxCell id="lBW1vLSO7ddHBRGHetM3-79" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="2759" y="1954" width="10" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="lBW1vLSO7ddHBRGHetM3-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.doorLeft;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;rotation=90;flipV=1;flipH=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2764" y="2200" width="80" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-117" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wall;fillColor=#000000;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;direction=east;" vertex="1" parent="1">
           <mxGeometry x="1994" y="2338" width="220" height="10" as="geometry" />
         </mxCell>
