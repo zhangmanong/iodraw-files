@@ -1231,6 +1231,9 @@
         <mxCell id="lBW1vLSO7ddHBRGHetM3-146" value="" style="line;strokeWidth=4;direction=south;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=#ffffff;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#6881B3;strokeColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="2413" y="3027" width="10" height="112" as="geometry" />
         </mxCell>
+        <mxCell id="lBW1vLSO7ddHBRGHetM3-147" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.doorDouble;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;rotation=-90;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="368" y="676" width="160" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
