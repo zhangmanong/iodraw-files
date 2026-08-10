@@ -1022,7 +1022,7 @@
           <mxGeometry x="2395" y="2338" width="221" height="266" as="geometry" />
         </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=west;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2142" y="1890" width="442" height="142" as="geometry" />
+          <mxGeometry x="2490" y="1960" width="478" height="2" as="geometry" />
         </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=north;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1994" y="2344" width="186" height="398" as="geometry" />
