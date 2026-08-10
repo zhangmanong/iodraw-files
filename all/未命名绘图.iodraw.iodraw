@@ -1270,9 +1270,6 @@
         <mxCell id="lBW1vLSO7ddHBRGHetM3-86" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.plant;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2912" y="1963" width="47" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="lBW1vLSO7ddHBRGHetM3-87" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wall;fillColor=#000000;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2534" y="2190" width="230" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-88" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;direction=east;" vertex="1" parent="1">
           <mxGeometry x="2646" y="2004" width="40" height="43" as="geometry" />
         </mxCell>
@@ -1284,9 +1281,6 @@
         </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-91" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;shadow=0;direction=south;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="2693" y="2054" width="43" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lBW1vLSO7ddHBRGHetM3-92" value="" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="2024" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lBW1vLSO7ddHBRGHetM3-93" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="2439" y="1950" width="10" height="248" as="geometry" />
