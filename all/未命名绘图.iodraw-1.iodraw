@@ -55,6 +55,9 @@
         <mxCell id="un9MZGNpfOjBFyHUYf0k-28" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;房间内&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="340" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="un9MZGNpfOjBFyHUYf0k-29" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;屋顶&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="187.5" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
