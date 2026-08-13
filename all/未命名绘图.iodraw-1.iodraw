@@ -40,16 +40,10 @@
         <mxCell id="un9MZGNpfOjBFyHUYf0k-22" value="网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="un9MZGNpfOjBFyHUYf0k-23" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="un9MZGNpfOjBFyHUYf0k-16" target="un9MZGNpfOjBFyHUYf0k-1">
+        <mxCell id="un9MZGNpfOjBFyHUYf0k-24" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="340" as="sourcePoint" />
             <mxPoint x="420" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="180" />
-              <mxPoint x="90" y="130" />
-              <mxPoint x="370" y="290" />
-              <mxPoint x="110" y="110" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
