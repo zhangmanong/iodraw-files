@@ -46,8 +46,8 @@
             <mxPoint x="80" y="132.92298451118648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="un9MZGNpfOjBFyHUYf0k-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="117.92298451118654" width="60" height="30" as="geometry" />
+        <mxCell id="un9MZGNpfOjBFyHUYf0k-25" value="交换机引过来网线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="117.92" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
