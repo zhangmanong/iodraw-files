@@ -32,7 +32,7 @@
           <mxGeometry x="350" y="590" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-11" value="EMC Filter" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="329.38" y="662" width="30" height="60" as="geometry" />
+          <mxGeometry x="345" y="670" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ub_pDHf-UBpqKJ_VFHIJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#66FFFF;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="640" width="65" height="80" as="geometry" />
@@ -70,8 +70,7 @@
             <mxPoint x="339.71000000000004" y="690" as="sourcePoint" />
             <mxPoint x="415" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="344" y="750" />
-              <mxPoint x="360" y="750" />
+              <mxPoint x="344" y="740" />
               <mxPoint x="385" y="740" />
               <mxPoint x="415" y="740" />
             </Array>
