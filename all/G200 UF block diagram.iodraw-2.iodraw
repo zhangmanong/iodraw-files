@@ -727,20 +727,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oymxMQELdt0zWiQnC1bM-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="184.26999999999998" y="2200" as="sourcePoint" />
-            <mxPoint x="140" y="2410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="184.62999999999994" y="2180" />
-              <mxPoint x="150" y="2180" />
-              <mxPoint x="150" y="2220" />
-              <mxPoint x="150" y="2320" />
-              <mxPoint x="140" y="2410" />
-              <mxPoint x="150" y="2410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oymxMQELdt0zWiQnC1bM-25" value="LISN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510.87" y="2300" width="70" height="40" as="geometry" />
         </mxCell>
