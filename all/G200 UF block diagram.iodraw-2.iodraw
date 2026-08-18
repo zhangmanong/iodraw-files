@@ -651,12 +651,12 @@
         <mxCell id="V041sR5K5_4_hPPPO40e-108" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1910" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oymxMQELdt0zWiQnC1bM-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;" edge="1" parent="1">
+        <mxCell id="oymxMQELdt0zWiQnC1bM-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;endFill=0;" edge="1" parent="1" target="Ub_pDHf-UBpqKJ_VFHIJ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="790" as="sourcePoint" />
-            <mxPoint x="70" y="700" as="targetPoint" />
+            <mxPoint x="355.25" y="670" as="sourcePoint" />
+            <mxPoint x="265.25" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="570" />
+              <mxPoint x="355.25" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
