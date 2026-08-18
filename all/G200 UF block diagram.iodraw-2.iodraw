@@ -856,8 +856,8 @@
         <mxCell id="oymxMQELdt0zWiQnC1bM-49" value="Brake&lt;div&gt;&amp;nbsp;resistor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.75" y="2410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oymxMQELdt0zWiQnC1bM-50" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2200" width="60" height="30" as="geometry" />
+        <mxCell id="oymxMQELdt0zWiQnC1bM-50" value="EMF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
